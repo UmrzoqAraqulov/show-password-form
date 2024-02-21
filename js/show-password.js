@@ -12,3 +12,5 @@ eye.addEventListener("click", function () {
     passwordInput.setAttribute("type", "password");
   }
 });
+
+

@@ -1,9 +1,8 @@
 :root {
-    --primaryColor: black;
-    --secondaryColor: white;
-    --backgroundColor: blue;
-    --hoverColor:skyblue;
-    --darkModeColor: black;
-    --secondaryHoverColor:gray;
+  --primaryColor: black;
+  --secondaryColor: white;
+  --backgroundColor: blue;
+  --hoverColor: skyblue;
+  --darkModeColor: black;
+  --secondaryHoverColor: gray;
 }
-
